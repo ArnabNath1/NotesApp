@@ -41,14 +41,15 @@
 .input-box{
 	position: relative;
 	width: 100%;
-	max-width: 500px;
-	min-height: 150px;
+	max-width: 400px;
+	min-height: 200px;
 	background: #fff;
 	color: #333;
 	padding: 20px;
 	margin: 20px 0;
 	outline: none;
 	border-radius: 5px;
+	display: flex;
 }
 .input-box img{
 	width: 25px;
